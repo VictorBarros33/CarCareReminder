@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">CarCare</string>
+
+    <!-- Login -->
+    <string name="login_title">CarCare</string>
+    <string name="login_subtitle">Seu carro sempre em dia</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="login_button">Entrar</string>
+    <string name="google_login">Continuar com Google</string>
+
+    <!-- Cadastro de Carro -->
+    <string name="register_car_title">Cadastre seu carro</string>
+    <string name="brand">Marca</string>
+    <string name="model">Modelo</string>
+    <string name="year">Ano</string>
+    <string name="engine">Motorização</string>
+    <string name="daily_km">Uso diário (km/dia)</string>
+    <string name="continue_button">Continuar</string>
+
+    <!-- Confirmação -->
+    <string name="confirm_question">É esse seu carro?</string>
+    <string name="yes_confirm">Sim, é esse!</string>
+    <string name="no_back">Não, voltar</string>
+
+    <!-- Feed -->
+    <string name="next_maintenance">Próxima manutenção</string>
+    <string name="days">dias</string>
+    <string name="km">km</string>
+
+    <!-- Bottom Navigation -->
+    <string name="nav_home">Início</string>
+    <string name="nav_notifications">Avisos</string>
+    <string name="nav_cars">Carros</string>
+    <string name="nav_settings">Config</string>
+</resources>
